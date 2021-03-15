@@ -1,0 +1,117 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Bodysys21"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "Home"
+url     = "/"
+weight  = 1
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Service"
+url     = "service"
+weight  = 3
+[[menu.main]]
+name    = "Gallery"
+url     = "gallery"
+weight  = 4
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "Bodysys 2021"
+description = "Workshop on Body-Centric Computing Systems (Previously Wearsys).ACM Bodysys 2021 Workshops@TBD"
+# button
+btn     = true
+btnText = "Submit Papers"
+btnURL  = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Human-in the loop systems"
+[[params.banner.flipText]]
+title   = "Physical rehabilitation systems"
+[[params.banner.flipText]]
+title   = "Sensing and Computing for Animals or Pets"
+[[params.banner.flipText]]
+title   = "XR wearables, wearable imaging"
+[[params.banner.flipText]]
+title   = "XR projection and low-power displays"
+[[params.banner.flipText]]
+title   = "Capacitive sensing"
+[[params.banner.flipText]]
+title   = "Capacitive sensing"
+[[params.banner.flipText]]
+title   = "On-body communication"
+[[params.banner.flipText]]
+title   = "Haptics and cognitive prosthetics"
+[[params.banner.flipText]]
+title   = "Body energy harnessing"
+[[params.banner.flipText]]
+title   = "Brain-interfaces"
+[[params.banner.flipText]]
+title   = "Electromyography (EMG) interfaces"
+
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "BODYSYS"
+content = "BodySys workshop focuses on advances and discussions on how body-centric (human/animals) computing technologies can shape mobile computing, systems, and applications research. The goal of the workshop is to provide a forum to bring together researchers and de-sign experts to discuss how wearable, body-centric, and user-in-the-loop technologies have, and can, complement mobile systems research, and vice-versa. It also aims to provide a launchpad for bold and visionary ideas for systems research in this space.<br> <br> We solicit papers of six or fewer pages that present preliminary research in areas of body-centric computing, including efforts on prototyping a system, experiences in designing a novel technology, or survey of useful tools for designing inter-disciplinary systems and applications. We also encourage position papers that propose new directions for research or advocate disruptive design ideas and project applications. We also encourage sub-missions that can help bootstrap exploration of the body-centric computing space by the broader mobile systems community."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "SUBMISSION INSTRUCTIONS"
+content = "Submission must be in PDF format (ONLY) and will be through the HotCRP portal. Check website for updates.<br><b>Papers:</b>Submissions should be limited to six (6) pages including references.<br><b>Position Paper and Demo:</b>Position papers and demo submissions must be in extended abstract format with 2 page limit (incl. references). Submission’s title must be prefixed with “Position” or “Demo” accordingly. All submissions should comply with MobiSys guidelines https://www.sigmobile.org/mobisys/2020/submission/. The reviewing process will be double–blind."
+btnText = "HotCRP portal"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "The focus areas include, but not limited to,"
+subtitle= "Human-in the loop systems • Physical rehabilitation systems • Sensing and Computing for Animals or Pets • XR wearables, wearable imaging, projection and low-power displays • Capacitive sensing and On-body communication • Wearable health and wellness including activity monitoring, physiological sensing • Ubiquitous Input Devices • Novel energy management solutions (eg. swappable batteries, solar harvesting) • Context sensitive notification delivery • Wearable biometrics for payment and authentication • Haptics and cognitive prosthetics • Body energy harnessing • Brain-interfaces • Electromyography (EMG) interfaces"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-linkedin"
+url = "#"
