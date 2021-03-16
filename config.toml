@@ -49,7 +49,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "Bodysys 2021"
-description = "Workshop on Body-Centric Computing Systems (Previously Wearsys).ACM Bodysys 2021 Workshops@TBD"
+description = "Workshop on Body-Centric Computing Systems (Previously Wearsys).<br>ACM Bodysys 2021 Workshops@TBD"
 # button
 btn     = true
 btnText = "Submit Papers"
