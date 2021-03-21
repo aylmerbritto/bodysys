@@ -1,0 +1,21 @@
+enable  : true
+title   : Workshop Chairs
+members  :
+  - name  : Ashwin Ashok
+    image : images/aashok.png
+    designation : Georgia State University
+    #description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher
+  
+  - name  : Avik Ghose
+    image : images/avik.jpeg
+    designation : TCS
+    #description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher
+  

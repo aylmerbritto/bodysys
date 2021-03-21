@@ -1,0 +1,29 @@
+enable  : true
+title   : BodySys 2021
+description: >
+  "BodySys workshop focuses on advances and discussions on how body-centric (human/animals) computing technologies can shape mobile computing, systems, and applications research. The goal of the workshop is to provide a forum to bring together researchers and de-sign experts to discuss how wearable, body-centric, and user-in-the-loop technologies have, and can, complement mobile systems research, and vice-versa. It also aims to provide a launchpad for bold and visionary ideas for systems research in this space.<br> <br> We solicit papers of six or fewer pages that present preliminary research in areas of body-centric computing, including efforts on prototyping a system, experiences in designing a novel technology, or survey of useful tools for designing inter-disciplinary systems and applications. We also encourage position papers that propose new directions for research or advocate disruptive design ideas and project applications. We also encourage sub-missions that can help bootstrap exploration of the body-centric computing space by the broader mobile systems community.
+  <h4>Important Dates:</h4><br>
+  <dl>
+    <dt>Submission deadline</dt>
+    <dd>- Apr 20, 2021 (11.59pm EDT)
+    <dt>Notification of acceptance:</dt>
+    <dd>- May 19, 2021</dd>
+    <dt>Camera-ready workshop papers</dt>
+    <dd>- May 31, 2021</dd>
+    <dt>Workshop date</dt>
+    <dd>- June 19, 2021</dd>
+  </dl>
+image   : images/wearable_banner.jpeg
+#aboutItem:
+#  - title : Submission deadline
+#    description: > 
+#      Apr 20, 2021 (11.59pm EDT)
+#  - title : Submission deadline
+#    description: > 
+#      Apr 20, 2021 (11.59pm EDT)
+#  - title : Submission deadline
+#    description: > 
+#      Apr 20, 2021 (11.59pm EDT)
+#  - title : Submission deadline
+#    description: > 
+#      Apr 20, 2021 (11.59pm EDT)
