@@ -11,7 +11,7 @@ name    = "Home"
 url     = "/"
 weight  = 1
 [[menu.main]]
-name    = "Know more"
+name    = "about"
 url     = "about"
 weight  = 2
 #[[menu.main]]
@@ -103,6 +103,8 @@ enable  = true
 title   = "The focus areas include, but not limited to,"
 subtitle= "Human-in the loop systems • Physical rehabilitation systems • Sensing and Computing for Animals or Pets • XR wearables, wearable imaging, projection and low-power displays • Capacitive sensing and On-body communication • Wearable health and wellness including activity monitoring, physiological sensing • Ubiquitous Input Devices • Novel energy management solutions (eg. swappable batteries, solar harvesting) • Context sensitive notification delivery • Wearable biometrics for payment and authentication • Haptics and cognitive prosthetics • Body energy harnessing • Brain-interfaces • Electromyography (EMG) interfacesWearable fashion (eg. smart jackets, bodysuits, amulets), smart fabrics • AI on wearables: on-device ML/DL for wearable computing • Novel combinations of 3D printing and Wear- ables (eg. integration with custom 3D printed sen- sors/encl.) • Wearable infrastructure and toolkits (hardware/software, custom/open source)"
 
+[params.team]
+enable = true
 # social icon
 #[[params.socialIcon]]
 #icon = "ion-social-facebook"
