@@ -18,4 +18,13 @@ members  :
     #twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Aylmer Britto
+    image : images/aylmer.jpeg
+    designation : TCS
+    #description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    #googleplus  : https://plus.google.com/themefisher
   
