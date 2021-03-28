@@ -1,30 +1,34 @@
 enable  : true
-title   : Workshop Chairs
+title   : Organisers
 members  :
   - name  : Ashwin Ashok
     image : images/aashok.png
     designation : Georgia State University
-    #description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    #facebook    : https://www.fb.com/themefisher
+    description : Workshop Chair
+    weburl : http://ashwinashok.com
+    #    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/ashwin-ashok-12820841/
     #googleplus  : https://plus.google.com/themefisher
   
   - name  : Avik Ghose
     image : images/avik.jpeg
     designation : TCS
-    #description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    description : Workshop Chair
+    weburl : http://ashwinashok.com
     #facebook    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/avik-ghose-27ba331b/
     #googleplus  : https://plus.google.com/themefisher
 
   - name  : Aylmer Britto
     image : images/aylmer.jpeg
-    designation : TCS
+    designation : Capillary Technologies
+    description : Publications and Web Chair
+    weburl : http://aylmerbritto.com
     #description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
     #facebook    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/aylmer-britto-800950130/
     #googleplus  : https://plus.google.com/themefisher
   

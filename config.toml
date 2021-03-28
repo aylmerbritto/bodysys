@@ -14,22 +14,14 @@ weight  = 1
 name    = "about"
 url     = "about"
 weight  = 2
-#[[menu.main]]
-#name    = "Service"
-#url     = "service"
-#weight  = 3
-#[[menu.main]]
-#name    = "Gallery"
-#url     = "gallery"
-#weight  = 4
-#[[menu.main]]
-#name    = "Blog"
-#url     = "blog"
-#weight  = 5
 [[menu.main]]
 name    = "Contact"
 url     = "contact"
-weight  = 6
+weight  = 3
+[[menu.main]]
+name    = "Wearsys-2020"
+url     = "https://sites.google.com/view/wearsys"
+weight  = 3
 
 # Site Params
 [params]
@@ -49,7 +41,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable  = true
 bgImage = "images/slider.jpg"
 heading = "Bodysys 2021"
-description = "Workshop on Body-Centric Computing Systems (Previously <a href='www.google.com'>Wearsys</a>)"
+description = "Workshop on Body-Centric Computing Systems (Previously Wearsys)"
 description2 = "ACM Bodysys 2021 Workshops@TBD"
 # button
 btn     = true
@@ -94,7 +86,7 @@ image   = "images/about/about.jpg"
 [params.cta]
 enable  = true
 title   = "SUBMISSION INSTRUCTIONS"
-content = "Submission must be in PDF format (ONLY) and will be through the HotCRP portal. Check website for updates.<br><b>Papers:</b><br>Submissions should be limited to six (6) pages including references.<br></u><b>Position Paper and Demo:</b></u><br>Position papers and demo submissions must be in extended abstract format with 2 page limit (incl. references). Submission’s title must be prefixed with “Position” or “Demo” accordingly. All submissions should comply with  <a href=https://www.sigmobile.org/mobisys/2020/submission/> MobiSys guidelines  </a>. The reviewing process will be double–blind."
+content = "Submission must be in PDF format (ONLY) and will be through the HotCRP portal. Check website for updates.<br><b>Papers:</b><br>Submissions should be limited to six (6) pages including references.<br></u><b>Position Paper and Demo:</b></u><br>Position papers and demo submissions must be in extended abstract format with 2 page limit (incl. references). Submission’s title must be prefixed with “Position” or “Demo” accordingly. All submissions should comply with  <a href=https://www.sigmobile.org/mobisys/2021/wsl.html> MobiSys guidelines  </a>. The reviewing process will be double–blind."
 btnText = "HotCRP portal"
 btnURL  = "https://bodysys2021.hotcrp.com/"
 
