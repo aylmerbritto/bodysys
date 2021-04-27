@@ -1,0 +1,12 @@
+enable  : true
+title   : Keynote Speaker
+members  :
+  - name  : Prof. Salil Kanhere
+    image : images/keynote/salil.jpeg
+    designation : UNSW, Sydney
+    #description : Workshop Chair
+    weburl : https://salilkanhere.net/
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/salilkanhere/?originalSubdomain=au
+    #googleplus  : https://plus.google.com/themefisher

@@ -1,0 +1,97 @@
+enable  : true
+title   : tpc
+members  :
+  - name  : Aniruddha Sinha
+    image : images/tpc/aniruddha-300x300.jpeg
+    designation : TCS Research
+    #description : Workshop Chair
+    weburl : https://scholar.google.co.in/citations?user=TrdrjEQAAAAJ&hl=en
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/aniruddha-sinha-7806309/?originalSubdomain=in
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Dr. Meera Radhakrishnan
+    image : images/tpc/meera-300x300.jpeg
+    designation : Singapore Management University
+    #description : Workshop Chair
+    weburl : https://sites.google.com/site/meeralakshmir/home
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/meeralakshmi/?originalSubdomain=sg
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Sandip Chakraborty
+    image : images/tpc/sandip-300x300.jpeg
+    designation : IIT Kharagpur
+    #description : Workshop Chair
+    weburl : http://cse.iitkgp.ac.in/~sandipc/
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/sandip-chakraborty-iitkgp/?originalSubdomain=in
+    #googleplus  : https://plus.google.com/themefisher  
+
+  - name  : Prof. Marcos Katz
+    image : images/tpc/marcos-300x300.jpeg
+    designation : IIT Kharagpur
+    #description : Workshop Chair
+    weburl : https://www.oulu.fi/university/researcher/marcos-katz
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/marcos-katz-348ba51/?originalSubdomain=fi
+    #googleplus  : https://plus.google.com/themefisher  
+
+  - name  : Dr. Shubham Jain
+    image : images/tpc/shubhamjain-300x300.jpeg
+    designation : Stony Brook University
+    #description : Workshop Chair
+    weburl : https://www.cs.stonybrook.edu/people/faculty/ShubhamJain
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/shubham-jain-588ab117/
+    #googleplus  : https://plus.google.com/themefisher  
+
+  - name  : Hongyu Li
+    image : images/tpc/hongyu-300x300.jpeg
+    designation : Google
+    #description : Workshop Chair
+    weburl : http://paul.rutgers.edu/~hl600/
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/hongyu-li-5a8a2679/
+    #googleplus  : https://plus.google.com/themefisher  
+
+  - name  : Ashutosh Dekhne
+    image : images/tpc/ashutosh-300x300.png
+    designation : Georgia Inst. of Technology
+    #description : Workshop Chair
+    weburl : https://scs.gatech.edu/people/ashutosh-dhekne
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/ashutosh-dhekne-324087b/
+    #googleplus  : https://plus.google.com/themefisher  
+
+  - name  : Yang Wang
+    image : images/tpc/yang-300x300.jpeg
+    designation : Temple University
+    #description : Workshop Chair
+    weburl : https://www.fox.temple.edu/about-fox/directory/yang-wang/
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/yangyang2000/
+    #googleplus  : https://plus.google.com/themefisher  
+
+  - name  : Dr. Swapna Agarwal
+    image : images/tpc/swapna-300x300.jpeg
+    designation : TCS Research
+    #description : Workshop Chair
+    weburl : https://scholar.google.co.in/citations?user=gpsZ7p8AAAAJ&hl=en
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/swapna-agarwal-2a623414/?originalSubdomain=in
+    #googleplus  : https://plus.google.com/themefisher 
+
+  - name  : Oishee Mazumder
+    image : images/tpc/oishee-300x300.jpeg
+    designation : TCS Research
+    #description : Workshop Chair
+    weburl : https://scholar.google.co.in/citations?user=MLrnOpkAAAAJ&hl=en
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/oisheemazumder/?originalSubdomain=in
+    #googleplus  : https://plus.google.com/themefisher 
