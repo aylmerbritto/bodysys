@@ -33,7 +33,7 @@ members  :
 
   - name  : Prof. Marcos Katz
     image : images/tpc/marcos-300x300.jpeg
-    designation : IIT Kharagpur
+    designation : Univ of Oulu, Finland
     #description : Workshop Chair
     weburl : https://www.oulu.fi/university/researcher/marcos-katz
     #    : https://www.fb.com/themefisher
@@ -73,9 +73,9 @@ members  :
     image : images/tpc/yang-300x300.jpeg
     designation : Temple University
     #description : Workshop Chair
-    weburl : https://www.fox.temple.edu/about-fox/directory/yang-wang/
+    weburl : https://cis.temple.edu/~yanwang/
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/yangyang2000/
+    linkedIn    : https://www.linkedin.com/in/yan-wang-aa243024/
     #googleplus  : https://plus.google.com/themefisher  
 
   - name  : Dr. Swapna Agarwal
