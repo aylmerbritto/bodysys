@@ -90,6 +90,9 @@ content = "<b>Submissions can be of the following formats:</b><br>We solicit pap
 content2 = "<p style=\"text-align:left;font-size:120%\"> The focus areas include, but not limited to, </p> <table style=\"text-align:left;face=\"verdana\"> <tr> <td >• Human-in the loop systems </td> <td >• Physical rehabilitation systems </tr> <tr> <td >• Sensing and Computing for Animals or Pets <td >• XR wearables, wearable imaging, projection and low-power displays </tr> <tr> <td >• Capacitive sensing and On-body communication <td >• Wearable health and wellness including activity monitoring, physiological sensing </tr> <tr> <td >• Ubiquitous Input Devices <td >• Novel energy management solutions (eg. swappable batteries, solar harvesting) </tr> <tr> <td >• Context sensitive notification delivery <td >Wearable biometrics for payment and authentication </tr> <tr> <td >• Haptics and cognitive prosthetics <td >• Body energy harnessing </tr> <tr> <td >• Brain-interfaces <td >• Electromyography (EMG) interfacesWearable fashion (eg. smart jackets, bodysuits, amulets), smart fabrics </tr> <tr> <td >• AI on wearables: on-device ML/DL for wearable computing <td >• Novel combinations of 3D printing and Wear- ables (eg. integration with custom 3D printed sen- sors/encl.)<li>Wearable infrastructure and toolkits (hardware/software, custom/open source) </tr> </table>"
 btnText = "HotCRP portal"
 btnURL  = "https://bodysys2021.hotcrp.com/"
+mobsysButton = "Participants are requested to register in MobiSys21 portal"
+mobsysButtonUrl = "https://www.sigmobile.org/mobisys/2021/"
+
 
 # Portfolio Section On Homepage
 [params.portfolio]
