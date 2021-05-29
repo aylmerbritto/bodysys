@@ -11,9 +11,8 @@ members  :
     linkedIn    : https://www.linkedin.com/in/salilkanhere/?originalSubdomain=au
     #googleplus  : https://plus.google.com/themefisher
 
-members  :
   - name  : Prof. Pavan Turaga
-    image : images/keynote/pavan.jpeg
+    image : images/keynote/pavan-300x300.jpeg
     designation : Arizona State University
     #description : Workshop Chair
     weburl : https://pavanturaga.com/
