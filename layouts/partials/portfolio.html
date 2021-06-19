@@ -1,3 +1,22 @@
+<head>
+	<style>
+		table {
+		font-family: arial, sans-serif;
+		border-collapse: collapse;
+		width: 80%;
+		}
+		
+		td, th {
+		border: 1px solid #dddddd;
+		text-align: left;
+		padding: 8px;
+		}
+		
+		tr:nth-child(even) {
+		background-color: rgba(184, 21, 21, 0.867);
+		}
+	</style>
+</head>
 {{ if .Site.Params.portfolio.enable }}
 {{ "<!-- Portfolio Section Start -->" | safeHTML }}
 <section id="works" class="works">
