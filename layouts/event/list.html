@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ partial "page-title.html" . }}
-
+{{ "<!-- About Section Start -->" | safeHTML }}
 <head>
 	<style>
 		table {
@@ -112,4 +112,5 @@
         </div>
     </div>
 </div>
+{{ "<!-- About Section End -->" | safeHTML }}
 {{ end }}
