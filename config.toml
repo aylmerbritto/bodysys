@@ -45,8 +45,8 @@ description = "Workshop on Body-Centric Computing Systems (Previously Wearsys)"
 description2 = "ACM Bodysys 2021 Workshops"
 # button
 btn     = true
-btnText = "Submit Papers"
-btnURL  = "https://bodysys2021.hotcrp.com/"
+btnText = "Program Event"
+btnURL  = "event/"
 
 # flip text
 [[params.banner.flipText]]
