@@ -1,7 +1,7 @@
 {{ if .Site.Params.about.enable }}
 {{ "<!-- About Section Start -->" | safeHTML }}
 <section id="about">
-	<div class="container">
+
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
@@ -18,7 +18,6 @@
 		<a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right"
 		data-wow-delay=".9s" href="{{ .Site.Params.banner.btnURL }}"
 		target="_blank">{{ .Site.Params.banner.btnText }}</a>
-</div>
 </section>
 {{ "<!-- About Section End -->" | safeHTML }}
 {{ end }}

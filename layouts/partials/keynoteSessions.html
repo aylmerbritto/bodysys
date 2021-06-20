@@ -20,10 +20,19 @@
 					{{ with "images/keynote/salil.jpeg" }}<img src="{{ . | absURL }}" alt="about-image">{{ end }}
 				</div>
 			</div>
+            <div class="col-sm-6">
+				<div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
+					<h2>Keynote I: Who Are You? New Approaches for Authentication in Smart Spaces</h2>
+					<p style="font-size:120%">
+                    </p>>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
+					{{ with "images/keynote/salil.jpeg" }}<img src="{{ . | absURL }}" alt="about-image">{{ end }}
+				</div>
+			</div>
 		</div>
-		<a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right"
-		data-wow-delay=".9s" href="{{ .Site.Params.banner.btnURL }}"
-		target="_blank">{{ .Site.Params.banner.btnText }}</a>
 </div>
 </section>
 {{ "<!-- About Section End -->" | safeHTML }}
