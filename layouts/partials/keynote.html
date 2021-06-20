@@ -1,24 +1,55 @@
-{{ if .Site.Params.about.enable }}
-{{ "<!-- About Section Start -->" | safeHTML }}
-<section id="about">
+{{ if .Site.Data.keynote.enable }}
+{{ "<!-- Team Section Start -->" | safeHTML }}
+<section id="keynote">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-6">
-				<div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
-					{{ with .Site.Params.about.title }}<h2>{{ . }}</h2>{{ end }}
-					{{ with .Site.Params.about.content }}<p style="font-size:120%">{{ . | safeHTML }}</p>{{ end }}
+			<div class="col-lg-12">
+				{{ with .Site.Data.keynote.title }}<h2 class="subtitle text-center">{{ . }}</h2>{{ end }}
+			</div>
+			{{ range $index, $element:= .Site.Data.keynote.members }}
+			<div class="col-md-3 col-sm-6">
+				{{ $delay := mul $index 300 }}
+				<div class="team-member wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
+					{{ with .image }}
+					<div class="team-img">
+						<img src="{{ . | absURL }}" class="team-pic" alt="team-member">
+					</div>
+					{{ end }}
+					{{ with .name }}<h3 class="team_name">{{ . }}</h3>{{ end }}
+					{{ with .designation }}<p class="team_designation">{{ . }}</p>{{ end }}
+					{{ with .description }}<p class="team_text">{{ . }}</p>{{ end }}
+					<p class="social-icons">
+						{{ with .facebook }}
+						<a href="{{ . }}" class="facebook" target="_blank">
+							<i class="ion-social-facebook-outline"></i>
+						</a>
+						{{ end }}
+						{{ with .twitter }}
+						<a href="{{ . }}" target="_blank">
+							<i class="ion-social-twitter-outline"></i>
+						</a>
+						{{ end }}
+						{{ with .linkedIn }}
+						<a href="{{ . }}" target="_blank">
+							<i class="ion-social-linkedin-outline"></i>
+						</a>
+						{{ end }}
+						{{ with .googleplus }}
+						<a href="{{ . }}" target="_blank">
+							<i class="ion-social-googleplus-outline"></i>
+						</a>
+						{{ end }}
+						{{ with .weburl }}
+						<a href="{{ . }}" target="_blank">
+							<i class="ion-ios-world"></i>
+						</a>
+						{{ end }}
+					</p>
 				</div>
 			</div>
-			<div class="col-sm-6">
-				<div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-					{{ with "images/keynote/salil.jpeg" }}<img src="{{ . | absURL }}" alt="about-image">{{ end }}
-				</div>
-			</div>
+			{{ end }}
 		</div>
-		<a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right"
-		data-wow-delay=".9s" href="{{ .Site.Params.banner.btnURL }}"
-		target="_blank">{{ .Site.Params.banner.btnText }}</a>
-</div>
+	</div>
 </section>
-{{ "<!-- About Section End -->" | safeHTML }}
+{{ "<!-- Team Section End -->" | safeHTML }}
 {{ end }}
