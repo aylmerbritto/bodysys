@@ -19,8 +19,8 @@ name    = "Contact"
 url     = "contact"
 weight  = 3
 [[menu.main]]
-name    = "Wearsys-2020"
-url     = "https://sites.google.com/view/wearsys"
+name    = "Bodysys-2021"
+url     = "https://bodysys21.netlify.app"
 weight  = 3
 
 # Site Params
@@ -91,7 +91,7 @@ content2 = "<p style=\"text-align:left;font-size:120%\"> The focus areas include
 btnText = "HotCRP portal"
 btnURL  = "https://bodysys2021.hotcrp.com/"
 mobsysButton = "Participants are requested to register in MobiSys21 portal"
-mobsysButtonUrl = "https://www.sigmobile.org/mobisys/2021/"
+mobsysButtonUrl = "https://www.sigmobile.org/mobisys/2022/sub.html"
 
 
 # Portfolio Section On Homepage
