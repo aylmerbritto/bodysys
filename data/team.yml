@@ -41,6 +41,16 @@ members  :
     linkedIn    : https://www.linkedin.com/in/avik-ghose-27ba331b/
     #googleplus  : https://plus.google.com/themefisher
 
+  - name  : Suman Banerjee
+    image : images/team/banerjee-suman.png
+    designation : UW-Madison
+    description : Steering Committee
+    weburl : https://directory.engr.wisc.edu/ece/Faculty/Banerjee_Suman/
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/subanerjee/
+    #googleplus  : https://plus.google.com/themefisher
+
   - name  : Avik Ghose
     image : images/avik.jpeg
     designation : TCS
