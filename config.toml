@@ -40,9 +40,9 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable  = true
 bgImage = "images/slider.jpg"
-heading = "Bodysys 2021"
+heading = "Bodysys 2022"
 description = "Workshop on Body-Centric Computing Systems (Previously Wearsys)"
-description2 = "ACM Bodysys 2021 Workshops"
+description2 = "ACM Bodysys 2022 Workshops"
 # button
 btn     = true
 btnText = "Program Event"
