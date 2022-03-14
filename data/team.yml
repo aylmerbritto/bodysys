@@ -1,10 +1,30 @@
 enable  : true
 title   : Organisers
 members  :
+  - name  : Sofia Scataglini
+    image : images/team/sofia.jpeg
+    designation : University of Antwerp
+    description : Workshop Chair
+    weburl : http://ashwinashok.com
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/sofia-scataglini-23723a4a/?originalSubdomain=be
+    #googleplus  : https://plus.google.com/themefisher
+
+  - name  : Parama Pal
+    image : images/team/parama.jpeg
+    designation : TCS Research
+    description : Workshop Chair
+    weburl : http://ashwinashok.com
+    #    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/parama-pal-b503a717/?originalSubdomain=in
+    #googleplus  : https://plus.google.com/themefisher
+
   - name  : Ashwin Ashok
     image : images/aashok.png
     designation : Georgia State University
-    description : Workshop Chair
+    description : Steering Committee
     weburl : http://ashwinashok.com
     #    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
@@ -14,7 +34,7 @@ members  :
   - name  : Avik Ghose
     image : images/avik.jpeg
     designation : TCS
-    description : Workshop Chair
+    description : Steering Committee
     weburl : https://scholar.google.com/citations?user=_j7P9ZYAAAAJ&hl=en
     #facebook    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
