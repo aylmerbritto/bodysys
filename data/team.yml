@@ -31,6 +31,16 @@ members  :
     linkedIn    : https://www.linkedin.com/in/ashwin-ashok-12820841/
     #googleplus  : https://plus.google.com/themefisher
   
+  - name  : Mahadev Satyanarayanan
+    image : images/mahadev-satya.png
+    designation : CMU
+    description : Steering Committee
+    weburl : https://www.ece.cmu.edu/directory/bios/satyanarayanan-mahadev.html
+    #facebook    : https://www.fb.com/themefisher
+    #twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/in/avik-ghose-27ba331b/
+    #googleplus  : https://plus.google.com/themefisher
+
   - name  : Avik Ghose
     image : images/avik.jpeg
     designation : TCS
@@ -41,15 +51,7 @@ members  :
     linkedIn    : https://www.linkedin.com/in/avik-ghose-27ba331b/
     #googleplus  : https://plus.google.com/themefisher
 
-  - name  : Mahadev Satyanarayanan
-    image : images/avik.jpeg
-    designation : TCS
-    description : Steering Committee
-    weburl : https://scholar.google.com/citations?user=_j7P9ZYAAAAJ&hl=en
-    #facebook    : https://www.fb.com/themefisher
-    #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/avik-ghose-27ba331b/
-    #googleplus  : https://plus.google.com/themefisher
+
 
   - name  : Aylmer Britto
     image : images/aylmer.jpeg
