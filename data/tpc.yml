@@ -1,97 +1,42 @@
-enable  : false
+enable  : true
 title   : tpc
 members  :
-  - name  : Aniruddha Sinha
+  - name  : Umer Asgher
     image : images/tpc/aniruddha-300x300.jpeg
-    designation : TCS Research
+    designation : NUST (Pakistan)
     #description : Workshop Chair
-    weburl : https://scholar.google.co.in/citations?user=TrdrjEQAAAAJ&hl=en
+    weburl : https://scholar.google.com.pk/citations?user=5FRXowUAAAAJ&hl=en
     #    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/aniruddha-sinha-7806309/?originalSubdomain=in
+    linkedIn    : https://www.linkedin.com/in/umar-asghar-b3330415a/?originalSubdomain=pk
     #googleplus  : https://plus.google.com/themefisher
 
-  - name  : Dr. Meera Radhakrishnan
-    image : images/tpc/meera-300x300.jpeg
-    designation : Singapore Management University
+  - name  : Professor Jerald Yoo
+    image : images/tpc/aniruddha-300x300.jpeg
+    designation : National University of Singapore
     #description : Workshop Chair
-    weburl : https://sites.google.com/site/meeralakshmir/home
+    weburl : https://scholar.google.ae/citations?user=NHaSuGgAAAAJ&hl=en
     #    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/meeralakshmi/?originalSubdomain=sg
+    linkedIn    : https://www.linkedin.com/in/jeraldyoo/?originalSubdomain=sg
     #googleplus  : https://plus.google.com/themefisher
-
-  - name  : Sandip Chakraborty
-    image : images/tpc/sandip-300x300.jpeg
-    designation : IIT Kharagpur
+    
+  - name  : Anirban Dutta Choudhury
+    image : images/tpc/aniruddha-300x300.jpeg
+    designation : National University of Singapore
     #description : Workshop Chair
-    weburl : http://cse.iitkgp.ac.in/~sandipc/
+    weburl : https://scholar.google.co.in/citations?user=Fcb4Y-QAAAAJ&hl=en
     #    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/sandip-chakraborty-iitkgp/?originalSubdomain=in
-    #googleplus  : https://plus.google.com/themefisher  
-
-  - name  : Prof. Marcos Katz
-    image : images/tpc/marcos-300x300.jpeg
-    designation : Univ of Oulu, Finland
+    linkedIn    : https://www.linkedin.com/in/anirban-dutta-choudhury-94ba51163/?originalSubdomain=in
+    #googleplus  : https://plus.google.com/themefisher
+    
+  - name  : Professor Siddarth Tallur
+    image : images/tpc/aniruddha-300x300.jpeg
+    designation : NUST (Pakistan)
     #description : Workshop Chair
-    weburl : https://www.oulu.fi/university/researcher/marcos-katz
+    weburl : https://www.ee.iitb.ac.in/web/people/faculty/home/stallur
     #    : https://www.fb.com/themefisher
     #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/marcos-katz-348ba51/?originalSubdomain=fi
-    #googleplus  : https://plus.google.com/themefisher  
-
-  - name  : Dr. Shubham Jain
-    image : images/tpc/shubhamjain-300x300.jpeg
-    designation : Stony Brook University
-    #description : Workshop Chair
-    weburl : https://www.cs.stonybrook.edu/people/faculty/ShubhamJain
-    #    : https://www.fb.com/themefisher
-    #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/shubham-jain-588ab117/
-    #googleplus  : https://plus.google.com/themefisher  
-
-  - name  : Hongyu Li
-    image : images/tpc/hongyu-300x300.jpeg
-    designation : Google
-    #description : Workshop Chair
-    weburl : http://paul.rutgers.edu/~hl600/
-    #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/hongyu-li-5a8a2679/
-    #googleplus  : https://plus.google.com/themefisher  
-
-  - name  : Ashutosh Dekhne
-    image : images/tpc/ashutosh-300x300.png
-    designation : Georgia Inst. of Technology
-    #description : Workshop Chair
-    weburl : https://scs.gatech.edu/people/ashutosh-dhekne
-    #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/ashutosh-dhekne-324087b/
-    #googleplus  : https://plus.google.com/themefisher  
-
-  - name  : Yang Wang
-    image : images/tpc/yang-300x300.jpeg
-    designation : Temple University
-    #description : Workshop Chair
-    weburl : https://cis.temple.edu/~yanwang/
-    #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/yan-wang-aa243024/
-    #googleplus  : https://plus.google.com/themefisher  
-
-  - name  : Dr. Swapna Agarwal
-    image : images/tpc/swapna-300x300.jpeg
-    designation : TCS Research
-    #description : Workshop Chair
-    weburl : https://scholar.google.co.in/citations?user=gpsZ7p8AAAAJ&hl=en
-    #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/swapna-agarwal-2a623414/?originalSubdomain=in
-    #googleplus  : https://plus.google.com/themefisher 
-
-  - name  : Oishee Mazumder
-    image : images/tpc/oishee-300x300.jpeg
-    designation : TCS Research
-    #description : Workshop Chair
-    weburl : https://scholar.google.co.in/citations?user=MLrnOpkAAAAJ&hl=en
-    #twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/in/oisheemazumder/?originalSubdomain=in
-    #googleplus  : https://plus.google.com/themefisher 
+    linkedIn    : https://www.linkedin.com/in/siddharthtallur/?originalSubdomain=in
+    #googleplus  : https://plus.google.com/themefisher
