@@ -2,7 +2,7 @@ enable  : true
 title   : tpc
 members  :
   - name  : Umer Asgher
-    image : images/tpc/aniruddha-300x300.jpeg
+    image : images/tpc/umar-300x300.jpeg
     designation : NUST (Pakistan)
     #description : Workshop Chair
     weburl : https://scholar.google.com.pk/citations?user=5FRXowUAAAAJ&hl=en
@@ -12,7 +12,7 @@ members  :
     #googleplus  : https://plus.google.com/themefisher
 
   - name  : Professor Jerald Yoo
-    image : images/tpc/aniruddha-300x300.jpeg
+    image : images/tpc/jerald-300x300.jpeg
     designation : National University of Singapore
     #description : Workshop Chair
     weburl : https://scholar.google.ae/citations?user=NHaSuGgAAAAJ&hl=en
@@ -22,7 +22,7 @@ members  :
     #googleplus  : https://plus.google.com/themefisher
     
   - name  : Anirban Dutta Choudhury
-    image : images/tpc/aniruddha-300x300.jpeg
+    image : images/tpc/aniraban-300x300.jpeg
     designation : National University of Singapore
     #description : Workshop Chair
     weburl : https://scholar.google.co.in/citations?user=Fcb4Y-QAAAAJ&hl=en
@@ -32,7 +32,7 @@ members  :
     #googleplus  : https://plus.google.com/themefisher
     
   - name  : Professor Siddarth Tallur
-    image : images/tpc/aniruddha-300x300.jpeg
+    image : images/tpc/sid-300x300.jpeg
     designation : NUST (Pakistan)
     #description : Workshop Chair
     weburl : https://www.ee.iitb.ac.in/web/people/faculty/home/stallur
