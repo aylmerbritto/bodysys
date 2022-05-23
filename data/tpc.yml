@@ -23,7 +23,7 @@ members  :
     
   - name  : Anirban Dutta Choudhury
     image : images/tpc/anirban-300x300.jpeg
-    designation : National University of Singapore
+    designation : TCS Research India
     #description : Workshop Chair
     weburl : https://scholar.google.co.in/citations?user=Fcb4Y-QAAAAJ&hl=en
     #    : https://www.fb.com/themefisher
@@ -33,7 +33,7 @@ members  :
     
   - name  : Professor Siddarth Tallur
     image : images/tpc/sid-300x300.jpeg
-    designation : NUST (Pakistan)
+    designation : IIT Bombay
     #description : Workshop Chair
     weburl : https://www.ee.iitb.ac.in/web/people/faculty/home/stallur
     #    : https://www.fb.com/themefisher
