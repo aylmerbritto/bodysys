@@ -2,7 +2,7 @@ enable  : true
 title   : Keynote Speaker
 members  :
   - name  : Meher Khan
-    image : images/keynote/salil.jpeg
+    image : images/keynote/meher.png
     designation : American College of Allergy, Asthma and Immunology
     #description : Workshop Chair
     weburl : www.laaftogether.com
