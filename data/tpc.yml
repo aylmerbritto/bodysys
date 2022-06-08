@@ -2,7 +2,7 @@ enable  : true
 title   : tpc
 members  :
   - name  : Umer Asgher
-    image : images/tpc/umar-300x300.jpeg
+    image : images/tpc/umer.jpeg
     designation : NUST (Pakistan)
     #description : Workshop Chair
     weburl : https://scholar.google.com.pk/citations?user=5FRXowUAAAAJ&hl=en
