@@ -44,9 +44,9 @@ heading = "Bodysys 2022"
 description = "Workshop on Body-Centric Computing Systems (Previously Wearsys)"
 description2 = "ACM Bodysys 2022 Workshops"
 # button
-#btn     = true
-#btnText = "Program Event"
-#btnURL  = "event/"
+btn     = true
+btnText = "Program Event"
+btnURL  = "event/"
 
 # flip text
 [[params.banner.flipText]]
