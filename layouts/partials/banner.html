@@ -23,6 +23,11 @@
           {{ end }}
           {{ if .Site.Params.banner.btn }}
           <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right"
+            data-wow-delay=".9s" href="{{ .Site.Params.banner.ProceedingsURL }}"
+            target="_blank">{{ .Site.Params.banner.ProceedingsText }}</a>
+          {{ end }}
+          {{ if .Site.Params.banner.btnProceedings }}
+          <a class="btn-lines dark light wow fadeInUp animated btn btn-default btn-green hvr-bounce-to-right"
             data-wow-delay=".9s" href="{{ .Site.Params.banner.btnURL }}"
             target="_blank">{{ .Site.Params.banner.btnText }}</a>
           {{ end }}
