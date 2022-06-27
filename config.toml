@@ -49,7 +49,7 @@ btnText = "Program Event"
 btnURL  = "event/"
 # button
 btnProceedings = true
-ProceedingsText = "BodySys 22 <br> Proceedings"
+ProceedingsText = "BodySys 22 Proceedings"
 ProceedingsURL  = "https://dl.acm.org/doi/proceedings/10.1145/3539489"
 
 # flip text
